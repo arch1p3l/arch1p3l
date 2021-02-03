@@ -32,5 +32,9 @@ Our goal is to enable you to visit the Archipelago, and have an experience in wh
 <br/>
 <br/>
 
-[![](images/droom_archipel.jpg)](https://www.goodreads.com/book/show/142185.The_Dream_Archipelago)
+[![](images/droom_archipel.jpg)](https://www.goodreads.com/book/show/142185.The_Dream_Archipelago) 
+
+<br/>
+<br/>
+
 [![](images/sebald_ROS.png)](https://www.newyorker.com/books/page-turner/why-you-should-read-w-g-sebald)
