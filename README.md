@@ -3,7 +3,7 @@
 
 ![](images/island_logo1.png)
 
-This project has 10 parts:
+This project has 10 elements:
 
 1. the Turku and Åland archipelago, together comprising ~ 46,500 islands, most of which are rocky islets
 2. the East coast of the Gulf of Bothnia
