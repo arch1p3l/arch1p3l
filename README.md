@@ -29,3 +29,4 @@ The 10 parts merged into this chimera are:
 Our goal is to enable you to visit the Archipelago, and have an experience in which these ten elements are seamlessly combined. 
 
 [![](images/droom_archipel.jpg)](https://www.goodreads.com/book/show/142185.The_Dream_Archipelago)
+[![](images/sebald_ROS.png)](https://www.newyorker.com/books/page-turner/why-you-should-read-w-g-sebald)
