@@ -1,7 +1,7 @@
 
 ![](images/hypercoast_1.jpg)
 
-# arch1p3l
+![](images/island_logo2.png)
 
 This project is a chimera, metonymically reflecting 4 senses of the meaning of the term:
 
