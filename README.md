@@ -3,14 +3,7 @@
 
 ![](images/island_logo1.png)
 
-This project is a chimera, metonymically reflecting 4 senses of the meaning of the term:
-
-1. a mythical animal, formed from parts of various animals
-2. a thing which is hoped for, but is illusory or impossible to achieve: *'enlightenment is real, but the enlightened person is a chimera'*
-3. an organism containing a mixture of genetically different tissues, formed by processes such as fusion of early embryos, grafting, or mutation
-4. a DNA molecule with sequences derived from two or more different organisms
-
-The 10 parts merged into this chimera are:
+This project has 10 parts:
 
 1. the Turku and Åland archipelago, together comprising ~ 46,500 islands, most of which are rocky islets
 2. the East coast of the Gulf of Bothnia
