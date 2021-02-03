@@ -3,12 +3,12 @@
 
 # arch1p3l
 
-This project is a chimera, in 4 senses of the meaning of the term:
+This project is a chimera, metonymically reflecting 4 senses of the meaning of the term:
 
-1. a mythical animal formed from parts of various animals.
-2. a thing which is hoped for but is illusory or impossible to achieve: *'the economic sovereignty you claim to defend is a chimera'*
+1. a mythical animal, formed from parts of various animals
+2. a thing which is hoped for, but is illusory or impossible to achieve: *'enlightenment is real, but the enlightened person is a chimera'*
 3. an organism containing a mixture of genetically different tissues, formed by processes such as fusion of early embryos, grafting, or mutation
-4. a DNA molecule with sequences derived from two or more different organisms, formed by laboratory manipulation
+4. a DNA molecule with sequences derived from two or more different organisms
 
 The 10 parts merged into this chimera are:
 
@@ -28,3 +28,4 @@ The 10 parts merged into this chimera are:
 
 Our goal is to enable you to visit the Archipelago, and have an experience in which these ten elements are seamlessly combined. 
 
+![](images/droom_archipel.jpg)
