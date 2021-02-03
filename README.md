@@ -29,8 +29,6 @@ The 10 parts merged into this chimera are:
 Our goal is to enable you to visit the Archipelago, and have an experience in which these ten elements are seamlessly combined. 
 
 <br/>
-<br/>
-<br/>
 
 [![](images/droom_archipel.jpg)](https://www.goodreads.com/book/show/142185.The_Dream_Archipelago) 
 
