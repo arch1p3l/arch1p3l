@@ -17,11 +17,11 @@ The 10 parts merged into this chimera are:
 3. the slipstream writing of:
 	- Chris Priest
 	- W.G. Sebald 
-4. an agent-based model of transportation, using Solid
+4. an agent-based model of transportation, using [Solid](https://solidproject.org/)
 	- see the *parambulator* in Neal Stephenson's *Seven Eves*
 5. cognitive science 
-6. perennial philosophy
-7. sociobiology
+6. [perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy)
+7. [island biogeography](https://en.wikipedia.org/wiki/Insular_biogeography)
 8. health, wellness, resilience
 9. adaptation to climate change, pandemics, and syndemics
 10. 'You'
