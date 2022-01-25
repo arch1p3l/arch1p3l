@@ -7,7 +7,7 @@ This project, in development since 2015, has 10 elements:
 
 1. the Turku, Åland, East Bothnian, and Kvarken archipelagos, together comprising > 52,100 islands, most of which are rocky islets
 2. an agent-based model of transportation, using [Solid](https://solidproject.org/)
-	- see the *parambulator* in Neal Stephenson's *Seven Eves*
+	- see the *perambulator* in Neal Stephenson's *Seven Eves*
 3. cognitive science 
 4. [perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy)
 5. [island biogeography](https://en.wikipedia.org/wiki/Insular_biogeography)
